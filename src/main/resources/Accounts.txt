@@ -1,0 +1,59 @@
+Account: 1
+Name: Rico
+Age: 22
+Amount: 1000000.00
+Phone: 137-090-2930
+
+Account: 2
+Name: Pablo
+Age: 25
+Amount: 5328.90
+Phone: 807-324-1294
+
+Account: 3
+Name: Gaston
+Age: 21
+Amount: 223940.43
+Phone: 547-374-3920
+
+Account: 4
+Name: Luke
+Age: 36
+Amount: 847320.12
+Phone: 317-090-2930
+
+Account: 5
+Name: Luna
+Age: 12
+Amount: 10.32
+Phone: 647-323-4352
+
+Account: 6
+Name: Happy
+Age: 99
+Amount: 93820.43
+Phone: 349-239-9804
+
+Account: 7
+Name: Percy
+Age: 103
+Amount: 999999.99
+Phone: 093-248-2390
+
+Account: 8
+Name: Aria
+Age: 18
+Amount: 7.42
+Phone: 582-451-5304
+
+Account: 9
+Name: Polo
+Age: 23
+Amount: 12346.78
+Phone: 679-984-9328
+
+Account: 10
+Name: Franky
+Age: 22
+Amount: 1240.34
+Phone: 832-748-4357
